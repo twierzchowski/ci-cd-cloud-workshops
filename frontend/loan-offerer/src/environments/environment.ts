@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  loanOffererApiBaseUrl: "<YOUR_API_URL>",
-  loanOffererApiKey: "<YOUR_API_KEY>"
+  loanOffererApiBaseUrl: "https://localhost:44373/api/CreateOffer",
+  loanOffererApiKey: "dxczCaildJ6KJt5jgUfF123sdfsdfw3rfgxcvzz"
 };
 
 /*
